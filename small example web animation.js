@@ -1,4 +1,8 @@
-const cubeRotating = [
+/*
+https://www.javascriptjanuary.com/blog/exploring-web-animations-api?utm_campaign=CSS%20Animation%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+*/
+
+cons1t cubeRotating = [
 	  {transform: 'rotate(0deg)', backgroundColor: 'pink'},
 	  {backgroundColor: 'purple', offset:0.3},
 	  {transform: 'rotate(180deg)', backgroundColor: 'pink'}
@@ -26,6 +30,9 @@ const cubeRotating = [
 	  }
 	)
 	*/
+	 
+	 // animation pause
+	//cubeAnimation.pause();
 
 	// --------------------------------------------
 
